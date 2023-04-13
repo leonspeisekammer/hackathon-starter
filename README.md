@@ -1,4 +1,5 @@
-# hackathon-starter
+# hackathon-starter - test
+
 Starting configuration for teams at the Speisekammer Hackathon
 
 ## Getting Started with Create React App
